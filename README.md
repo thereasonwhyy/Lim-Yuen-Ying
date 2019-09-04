@@ -8,3 +8,6 @@ merging meaning with message;
 a respite from life's race.
 Stick around and in good time, 
 you will journey with me as I improve my rhyme.
+
+
+<h1>Here is a list of projects I've been working on</h1>
