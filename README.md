@@ -7,7 +7,7 @@ I'm hoping to make it a lovely place,
 merging meaning with message; 
 a respite from life's race.
 Stick around and hopefully in good time, 
-you'll journey with me as I improve my rhyme.
+you'll come with me on this journey to improve on my rhyme.
 
 
 
