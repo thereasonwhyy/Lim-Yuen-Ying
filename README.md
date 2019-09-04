@@ -13,4 +13,4 @@ you will journey with me as I improve my rhyme.
 
 <h3>Here is a list of projects I've been working on</h3>
 
-![](Hedgehog_Postcard.pdf)
+![](Bear_Postcard.jpg)
