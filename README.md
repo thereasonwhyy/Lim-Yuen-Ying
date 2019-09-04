@@ -6,5 +6,5 @@ Reason here, welcoming you to my creative space.
 I'm hoping to make it a lovely place,
 merging meaning with message; 
 a respite from life's race.
-Stick around and maybe in time, 
-you'll journey with me as I improve my rhyme.
+Stick around and in good time, 
+follow my journey to improve my rhyme.
