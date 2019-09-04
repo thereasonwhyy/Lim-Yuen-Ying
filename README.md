@@ -15,5 +15,6 @@ you'll journey with me as I improve my rhyme.
 
 ![](Bear_Postcard.jpg)
 
+![](Flamingo_Postcard.jpg)
 
 ![](Bookmark_B.jpg)
