@@ -10,7 +10,7 @@ Reason here, welcoming you to my creative space. I'm hoping to make it a lovely 
 
 <h4>#ShareYourSmile</h4>
 
-<img src="Bear_Postcard.jpg" style="float: left; width: 30%; margin-right: 1%; "><img src="Hedgehog_Postcard.jpeg" style="float: left; width: 30%; margin-right: 1%; "><img src="Flamingo_Postcard.jpg" style="float: left; width: 30%; margin-right: 1%; ">
+<p><img src="Bear_Postcard.jpg" style="float: left; width: 30%; margin-right: 1%; "><img src="Hedgehog_Postcard.jpeg" style="float: left; width: 30%; margin-right: 1%; "><img src="Flamingo_Postcard.jpg" style="float: right; width: 30%; margin-right: 1%; "></p>
 
 <h4> Weddings </h4>
 <ul><li>The Wedding of 2 Chefs - Yuen Min & Ju Lih</li></ul>
