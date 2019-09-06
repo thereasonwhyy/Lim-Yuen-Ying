@@ -25,8 +25,9 @@ Reason here, welcoming you to my creative space.
 <ul><li>The Wedding of 2 Chefs - Yuen Min & Ju Lih</li></ul>
 ![](Bookmark_B.jpg)
 
-<img src="JL&YM_Logo copy.png" style="float: left; width: 50%; margin-right: 1%; margin-bottom: 0.5em;"><img src="IMG_8872.jpg" style="float: right; width: 50%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="JL&YM_Logo copy.png" style="float: left; width: 50%; margin-right: 1%; "><img src="IMG_8872.jpg" style="float: right; width: 50%; margin-right: 1%; ">
 <p style="clear: both;">
   
 <ul><li>A mermaid who fell in love with a hero - Joy & Philip</li></ul>
+
 ![](Final_Logo.png)
