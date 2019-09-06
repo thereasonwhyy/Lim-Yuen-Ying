@@ -15,6 +15,10 @@ Reason here, welcoming you to my creative space. I'm hoping to make it a lovely 
 
 <h4> Weddings </h4>
 <ul><li>The Wedding of 2 Chefs - Yuen Min & Ju Lih</li></ul>
+img.resize {
+  max-width:50%;
+  max-height:50%;
+}
 <p><img src="Bookmark_B.jpg" class= resize style="float: left; margin-right: 1%; "><img src="JL&YM_Logo copy.png" style="float: left; width: 30%; margin-right: 1%; "><img src="IMG_8872.jpg" style="float: left; width: 30%; margin-right: 1%; ">
 <p style="clear: both;"></p>
   
