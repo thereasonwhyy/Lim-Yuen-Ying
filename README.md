@@ -19,4 +19,9 @@ Reason here, welcoming you to my creative space. I'm hoping to make it a lovely 
 <p style="clear: both;"></p>
   
 <ul><li>The Wedding of a mermaid & her hero - Joy & Philip</li></ul>
-<p><img src="Joy & Philip.png" style="height: 25em; Width: 20em; "></p>
+<p><img src="Joy & Philip.png" style="height: 23em; Width: 20em; "></p>
+
+<h4> Shirts </h4>
+<ul><li>SMU Christian Fellowship - Orientation Camp</li></ul>
+<p><img src="FOC_op4.jpg" style="float: left; width: 45%; margin-right: 1%; ">
+<p style="clear: both;"></p>
