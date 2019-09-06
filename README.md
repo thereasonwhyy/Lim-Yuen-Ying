@@ -23,5 +23,5 @@ Reason here, welcoming you to my creative space. I'm hoping to make it a lovely 
 <img src="JL&YM_Logo copy.png" style="float: left; width: 45%; margin-left: 5%; margin-right: 1%; "><img src="IMG_8872.jpg" style="float: right; width: 40%; margin-right: 5%; ">
 <p style="clear: both;"></p>
   
-<ul><li>A mermaid who fell in love with a hero - Joy & Philip</li></ul>
+<ul><li>The Wedding of a mermaid & her hero - Joy & Philip</li></ul>
 ![](Joy & Philip.png)
