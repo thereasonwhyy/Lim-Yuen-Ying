@@ -24,7 +24,8 @@ Reason here, welcoming you to my creative space.
 <h4> Weddings </h4>
 <ul><li>The Wedding of 2 Chefs - Yuen Min & Ju Lih</li></ul>
 ![](Bookmark_B.jpg)
-<p align="left">![](JL&YM_Logo copy.png)</p>
+
+<img src="JL&YM_Logo copy.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="IMG_8872.jpg" style="float: right; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
 <p align="right">![](IMG_8872.jpg)</p>
 
 
