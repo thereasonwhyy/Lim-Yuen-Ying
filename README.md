@@ -2,7 +2,7 @@
 
 Hi there!
 
-Reason here, welcoming you to my creative space. I'm hoping to make it a lovely place, merging meaning with message; a respite from life's race. Stick around and hopefully in good time, you'll journey with me as I improve on my rhyme.
+Reason here, welcoming you to my creative space. I'm hoping to make it a lovely place, merging meaning with message; a respite from life's race. Stick around and hopefully in good time, you'll journey with me as I improve my rhyme.
 
 
 
@@ -19,4 +19,4 @@ Reason here, welcoming you to my creative space. I'm hoping to make it a lovely 
 <p style="clear: both;"></p>
   
 <ul><li>The Wedding of a mermaid & her hero - Joy & Philip</li></ul>
-![](Joy & Philip.png)
+<p><img src="Joy & Philip.png"></p>
