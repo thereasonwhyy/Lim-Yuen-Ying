@@ -26,8 +26,7 @@ Reason here, welcoming you to my creative space.
 ![](Bookmark_B.jpg)
 
 <img src="JL&YM_Logo copy.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="IMG_8872.jpg" style="float: right; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
-<p align="right">![](IMG_8872.jpg)</p>
-
 <p style="clear: both;">
+  
 <ul><li>A mermaid who fell in love with a hero - Joy & Philip</li></ul>
 ![](Final_Logo.png)
