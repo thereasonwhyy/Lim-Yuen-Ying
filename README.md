@@ -3,11 +3,11 @@
 Hi there!
 
 Reason here, welcoming you to my creative space.
-I'm hoping to make it a lovely place,
-merging meaning with message; 
-a respite from life's race.
-Stick around and hopefully in good time, 
-you'll journey with me as I improve on my rhyme.
+</br> I'm hoping to make it a lovely place,
+</br> merging meaning with message; 
+</br> a respite from life's race.
+</br> Stick around and hopefully in good time, 
+</br> you'll journey with me as I improve on my rhyme.
 
 
 
