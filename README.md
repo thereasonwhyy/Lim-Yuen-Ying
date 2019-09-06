@@ -10,13 +10,13 @@ Reason here, welcoming you to my creative space. I'm hoping to make it a lovely 
 
 <h4>#ShareYourSmile</h4>
 
-<p><img src="Bear_Postcard.jpg" style="float: left; width: 30%; margin-right: 1%; "><img src="Hedgehog.png" style="justify-content: center; width: 30%; "><img src="Flamingo_Postcard.jpg" style="float: left; width: 30%; margin-right: 1%; ">
+<p><img src="Bear_Postcard.jpg" style="float: left; width: 30%; margin-right: 1%; "><img src="Flamingo_Postcard.jpg" style="float: left; width: 30%; margin-right: 1%; "><img src="Hedgehog.png" style="float: left; width: 30%; margin-right: 1%; ">
 <p style="clear: both;"></p>
 
 <h4> Weddings </h4>
 <ul><li>The Wedding of 2 Chefs - Yuen Min & Ju Lih</li></ul>
-<p><img src="Bookmark_B.jpg" style="float: left; height: 25em; width: 20em; margin-right: 1%; "><img src="JL&YM_Logo copy.png" style="float: left; width: 30%; margin-right: 1%; "><img src="IMG_8872.jpg" style="float: left; width: 30%; margin-right: 1%; ">
+<p><img src="Bookmark_B.jpg" style="float: left; height: 10%; width: 30%; margin-right: 1%; "><img src="JL&YM_Logo copy.png" style="float: left; width: 30%; margin-right: 1%; "><img src="IMG_8872.jpg" style="float: left; width: 30%; margin-right: 1%; ">
 <p style="clear: both;"></p>
   
 <ul><li>The Wedding of a mermaid & her hero - Joy & Philip</li></ul>
-<p>![](Joy & Philip.png)</p>
+![](Joy & Philip.png)
