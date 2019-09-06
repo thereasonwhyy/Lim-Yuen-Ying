@@ -19,4 +19,4 @@ Reason here, welcoming you to my creative space. I'm hoping to make it a lovely 
 <p style="clear: both;"></p>
   
 <ul><li>The Wedding of a mermaid & her hero - Joy & Philip</li></ul>
-<p><img src="Joy & Philip.png"></p>
+<p><img src="Joy & Philip.png" style="height: 20em; Width: 20em; "></p>
