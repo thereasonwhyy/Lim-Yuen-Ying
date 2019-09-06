@@ -20,7 +20,7 @@ Reason here, welcoming you to my creative space. I'm hoping to make it a lovely 
 <ul><li>The Wedding of 2 Chefs - Yuen Min & Ju Lih</li></ul>
 ![](Bookmark_B.jpg)
 
-<img src="JL&YM_Logo copy.png" style="float: left; width: 45%; margin-right: 1%; "><img src="IMG_8872.jpg" style="float: right; width: 45%; margin-right: 1%; ">
+<img src="JL&YM_Logo copy.png" style="float: left; width: 45%; margin-right: 1%; "><img src="IMG_8872.jpg" style="float: right; width: 45%; margin-right: 5%; ">
 <p style="clear: both;">
   
 <ul><li>A mermaid who fell in love with a hero - Joy & Philip</li></ul>
