@@ -24,5 +24,7 @@ Reason here, welcoming you to my creative space.
 <h4> Weddings </h4>
 <ul><li>The Wedding of 2 Chefs - Yuen Min & Ju Lih</li></ul>
 ![](Bookmark_B.jpg)
+![](IMG_8872.jpg)<space>![](JL&YM_Logo copy.png)
+
 <ul><li>A mermaid who fell in love with a hero - Joy & Philip</li></ul>
 ![](Final_Logo.png)
