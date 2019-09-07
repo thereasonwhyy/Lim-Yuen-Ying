@@ -36,6 +36,10 @@ Reason here, welcoming you to my creative space. I'm hoping to make it a lovely 
 <p><img src="hoodie.jpg" style="margin-left: 10%; "></p>
 <p style="clear: both;"></p>
 
+<h4> Post Cards </h4>
+<p><img src="(Postcard poster.jpg" style="float: left; height: 21em; width: 40%; margin-right: 1%; "><img src="OrderPhoto.jpg" style="float: left; width: 40%; margin-right: 1%; "></p>
+<p style="clear: both;"></p>
+
 <h4> Bookmarks </h4>
 <p><img src="1.png"></p>
 <p style="clear: both;"></p>
