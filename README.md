@@ -24,10 +24,10 @@ Reason here, welcoming you to my creative space. I'm hoping to make it a lovely 
 <p><img src="Joy & Philip.png" style="height: 23em; Width: 20em; margin-left: 5%; "></p>
 
 <h4> Apparel </h4>
-<ul><li><h5>SMU Christian Fellowship - 2017 Orientation Camp</h5></li></ul>
+<ul><li><h5>SMU Christian Fellowship | 2017 Orientation Camp</h5></li></ul>
 <p><img src="FOC_op4.jpg"></p>
 <p><img src="FOC_design.png"></p>
 
-<ul><li><h5>Ngee Ann Polytechnic - 2015 OMF New Zealand Hoodie</h5></li></ul>
+<ul><li><h5>Ngee Ann Polytechnic | 2015 OMF New Zealand Hoodie</h5></li></ul>
 <p><img src="hoodie.jpg" style="float: left; width: 70%; margin-right: 1%; ">
 <p style="clear: both;"></p>
