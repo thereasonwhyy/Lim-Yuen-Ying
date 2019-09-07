@@ -21,7 +21,7 @@ Reason here, welcoming you to my creative space. I'm hoping to make it a lovely 
 <p style="clear: both;"></p>
   
 <ul><li><h5>The Wedding of Joy & Philip</h5></li></ul>
-<p><img src="Joy & Philip.png" style="height: 23em; Width: 20em; margin-left: 5%; "></p>
+<p><img src="Joy & Philip.png" style="height: 23em; Width: 20em; margin-left: 30%; "></p>
 
 <h4> Apparel </h4>
 <ul><li><h5>SMU Christian Fellowship | 2017 Orientation Camp</h5></li></ul>
@@ -30,4 +30,9 @@ Reason here, welcoming you to my creative space. I'm hoping to make it a lovely 
 
 <ul><li><h5>Ngee Ann Polytechnic | 2015 OMF New Zealand Hoodie</h5></li></ul>
 <p><img src="hoodie.jpg"></p>
+<p style="clear: both;"></p>
+
+<h4> Info-Cards </h4>
+<p><img src="(Updatedv3)MissionsWk copy.jpg" style="float: left; width: 30%; margin-left: 1%; "><img src="F copy.jpg" style="float: right; width: 30%; margin-right: 1%; "><img src="FOC_2018 copy.jpg" style="float: right; width: 30%; margin-right: 1%; "></p>
+<p><img src="Bookmark_B.jpg"></p>
 <p style="clear: both;"></p>
