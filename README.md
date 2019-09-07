@@ -14,7 +14,7 @@ Reason here, welcoming you to my creative space. I'm hoping to make it a lovely 
 <p style="clear: both;"></p>
 
 <h4> Weddings </h4>
-<ul><li>The Wedding of 2 Chefs - Yuen Min & Ju Lih</li></ul>
+<ul><li><h3>The Wedding of 2 Chefs - Yuen Min & Ju Lih</h3></li></ul>
 <p><img src="Bookmark_B.jpg"></p>
 <p><img src="JL&YM_Logo copy.png" style="float: left; width: 45%; margin-right: 1%; "><img src="IMG_8872.jpg" style="float: left; width: 45%; margin-right: 1%; "></p>
 <p style="clear: both;"></p>
