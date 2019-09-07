@@ -28,7 +28,7 @@ Reason here, welcoming you to my creative space. I'm hoping to make it a lovely 
 <p><img src="Joy & Philip.png" style="height: 23em; Width: 20em; margin-left: 30%; "></p>
 
 <h4> Post Cards </h4>
-<p><img src="Postcard poster.jpg" style="float: left; width: 50%; margin-right: 1%; "><img src="OrderPhoto.jpg" style="float: right; width: 50%; margin-right: 1%; "></p>
+<p><img src="Postcard poster.jpg" style="float: left; width: 49%; margin-right: 1%; "><img src="OrderPhoto.jpg" style="float: right; width: 49%; margin-right: 1%; "></p>
 <p style="clear: both;"></p>
 
 <h4> Apparel </h4>
