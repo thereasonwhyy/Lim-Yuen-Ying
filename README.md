@@ -23,8 +23,8 @@ Reason here, welcoming you to my creative space. I'm hoping to make it a lovely 
 
 <h4> Apparel </h4>
 <ul><li>SMU Christian Fellowship - 2017 Orientation Camp</li></ul>
-<p><img src="FOC_op4.jpg" style="float: left; width: 45%; margin-right: 1%; "><img src="FOC_design.png" style="float: left; width: 45%; margin-right: 1%; ">
-<p style="clear: both;"></p>
+<p><img src="FOC_op4.jpg"></p>
+<p><img src="FOC_design.png"></p>
 
 <ul><li> Ngee Ann Polytechnic - 2015 OMF New Zealand Hoodie </li></ul>
 <p><img src="hoodie.jpg" style="float: left; width: 45%; margin-right: 1%; ">
