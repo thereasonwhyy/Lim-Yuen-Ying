@@ -38,6 +38,7 @@ Reason here, welcoming you to my creative space. I'm hoping to make it a lovely 
 
 <ul><li><h5> University-YMCA | Project PTIA VIII (Cambodia)</h5></li></ul>
 <p><img src="(Black)Shirt_Design.png" style="float: left; width: 49%; margin-right: 1%; "><img src="(B)Cap_Design.png" style="float: right; width: 49%; margin-right: 1%; "></p>
+<p style="clear: both;"></p>
 
 <ul><li><h5>Ngee Ann Polytechnic | 2015 OMF New Zealand Hoodie</h5></li></ul>
 <p><img src="hoodie.jpg" style="margin-left: 10%; "></p>
