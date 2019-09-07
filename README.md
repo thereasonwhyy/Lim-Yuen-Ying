@@ -24,7 +24,7 @@ Reason here, welcoming you to my creative space. I'm hoping to make it a lovely 
 
 <p><img src="Bookmark_B.jpg" style="float: left; Width:48%; "><img src="Bulletin_F(Final).jpg" style="float: left; Width:24%; margin-right:1% "><img src="Bulletin_B.png" style="float: left; Width:24%; margin-right:1% "></p>
 <p style="clear: both;"></p>
-  
+<br/>  
 <ul><li><h5>The Wedding of Joy & Philip</h5></li></ul>
 <p><img src="Joy & Philip.png" style="height: 23em; Width: 20em; margin-left: 30%; "></p>
 
