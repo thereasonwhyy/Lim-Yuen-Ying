@@ -18,7 +18,7 @@ Reason here, welcoming you to my creative space. I'm hoping to make it a lovely 
 <p><img src="Flamingo_Postcard.jpg" style="float: left; width: 48%; margin-right: 4%; "><img src="Hedgehog.png" style="float: right; width: 48%; "></p>
 <p style="clear: both;"></p>
 
-<h4> Weddings </h4>
+<h4> Wedding Branding </h4>
 <ul><li><h5>The Wedding of 2 Chefs - Yuen Min & Ju Lih</h5></li></ul>
 <p><img src="JL&YM_Logo copy.png" style="float: left; width: 45%; margin-left: 2%; "><img src="IMG_8872.jpg" style="float: right; width: 45%; margin-right: 4%; "></p>
 <p><img src="Bookmark_B.jpg"></p>
