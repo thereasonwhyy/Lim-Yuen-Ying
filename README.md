@@ -10,10 +10,6 @@ Reason here, welcoming you to my creative space. I'm hoping to make it a lovely 
 
 <h4>#ShareYourSmile</h4>
 
-<p><img src="Bear_Postcard.jpg"></p>
-<p><img src="Flamingo_Postcard.jpg"></p>
-<p><img src="Hedgehog.png"></p>
-
 <p><img src="Bear_Postcard.jpg" style="float: left; width: 30%; margin-right: 1%; "><img src="Flamingo_Postcard.jpg" style="float: left; width: 30%; margin-right: 1%; "><img src="Hedgehog.png" style="float: left; width: 30%; margin-right: 1%; ">
 <p style="clear: both;"></p>
 
