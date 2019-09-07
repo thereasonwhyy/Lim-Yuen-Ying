@@ -29,7 +29,7 @@ Reason here, welcoming you to my creative space. I'm hoping to make it a lovely 
 <p><img src="FOC_design.png"></p>
 
 <ul><li><h5>Ngee Ann Polytechnic | 2015 OMF New Zealand Hoodie</h5></li></ul>
-<p><img src="hoodie.jpg"></p>
+<p><img src="hoodie.jpg" style="margin-left: 20%; "></p>
 <p style="clear: both;"></p>
 
 <h4> Info-Cards </h4>
