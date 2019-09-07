@@ -16,7 +16,7 @@ Reason here, welcoming you to my creative space. I'm hoping to make it a lovely 
 
 <h4> Weddings </h4>
 <ul><li><h5>The Wedding of 2 Chefs - Yuen Min & Ju Lih</h5></li></ul>
-<p><img src="JL&YM_Logo copy.png" style="float: left; width: 45%; margin-right: 1%; "><img src="IMG_8872.jpg" style="float: right; width: 45%; margin-right: 1%; "></p>
+<p><img src="JL&YM_Logo copy.png" style="float: left; width: 45%; margin-right: 1%; "><img src="IMG_8872.jpg" style="float: right; width: 45%; margin-right: 5%; "></p>
 <p><img src="Bookmark_B.jpg"></p>
 <p style="clear: both;"></p>
   
@@ -29,5 +29,5 @@ Reason here, welcoming you to my creative space. I'm hoping to make it a lovely 
 <p><img src="FOC_design.png"></p>
 
 <ul><li><h5>Ngee Ann Polytechnic - 2015 OMF New Zealand Hoodie</h5></li></ul>
-<p><img src="hoodie.jpg" style="float: left; width: 45%; margin-right: 1%; ">
+<p><img src="hoodie.jpg" style="float: left; width: 70%; margin-right: 1%; ">
 <p style="clear: both;"></p>
