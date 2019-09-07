@@ -27,19 +27,19 @@ Reason here, welcoming you to my creative space. I'm hoping to make it a lovely 
 <ul><li><h5>The Wedding of Joy & Philip</h5></li></ul>
 <p><img src="Joy & Philip.png" style="height: 23em; Width: 20em; margin-left: 30%; "></p>
 
+<h4> Post Cards </h4>
+<p><img src="Postcard poster.jpg" style="float: left; width: 50%; margin-right: 1%; "><img src="OrderPhoto.jpg" style="float: right; width: 50%; margin-right: 1%; "></p>
+<p style="clear: both;"></p>
+
 <h4> Apparel </h4>
 <ul><li><h5>SMU Christian Fellowship | 2017 Orientation Camp</h5></li></ul>
 <p><img src="FOC_op4.jpg"></p>
 <p><img src="FOC_design.png"></p>
 
+<ul><li><h5> University-YMCA | Project PTIA VIII (Cambodia)</h5></li></ul>
+<p><img src="(Black)Shirt_Design.png" style="float: left; width: 49%; margin-right: 1%; "><img src="(B)Cap_Design.png" style="float: right; width: 49%; margin-right: 1%; "></p>
+
 <ul><li><h5>Ngee Ann Polytechnic | 2015 OMF New Zealand Hoodie</h5></li></ul>
 <p><img src="hoodie.jpg" style="margin-left: 10%; "></p>
 <p style="clear: both;"></p>
 
-<h4> Post Cards </h4>
-<p><img src="Postcard poster.jpg" style="float: left; width: 50%; margin-right: 1%; "><img src="OrderPhoto.jpg" style="float: right; width: 50%; margin-right: 1%; "></p>
-<p style="clear: both;"></p>
-
-<h4> Bookmarks </h4>
-<p><img src="1.png"></p>
-<p style="clear: both;"></p>
