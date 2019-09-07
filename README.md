@@ -33,7 +33,8 @@ Reason here, welcoming you to my creative space. I'm hoping to make it a lovely 
 <p style="clear: both;"></p>
 
 <h4> Info-Cards </h4>
-<p><img src="(Updatedv3)MissionsWk copy.jpg" style="float: left; height: 23em; width: 25%; margin-right: 1%; "><img src="F copy.jpg" style="float: right; width: 25%; margin-right: 1%; "><img src="FOC_2018 copy.jpg" style="float: right; width: 25%; margin-right: 1%; "><img src="'18 MW_v3 copy.jpg" style="float: right; width: 25%; margin-right: 1%; "></p>
+<p><img src="(Updatedv3)MissionsWk copy.jpg" style="float: left; height: 20em; width: 20%; margin-right: 1%; "><img src="F copy.jpg" style="float: left; width: 25%; margin-right: 1%; "><img src="FOC_2018 copy.jpg" style="float: left; width: 25%; margin-right: 1%; "><img src="'18 MW_v3 copy.jpg" style="float: left; width: 25%; margin-right: 1%; "></p>
+<p style="clear: both;"></p>
 
 <h4> Bookmarks </h4>
 <p><img src="1.png"></p>
