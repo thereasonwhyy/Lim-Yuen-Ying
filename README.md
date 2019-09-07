@@ -29,11 +29,11 @@ Reason here, welcoming you to my creative space. I'm hoping to make it a lovely 
 <p><img src="FOC_design.png"></p>
 
 <ul><li><h5>Ngee Ann Polytechnic | 2015 OMF New Zealand Hoodie</h5></li></ul>
-<p><img src="hoodie.jpg" style="margin-left: 20%; "></p>
+<p><img src="hoodie.jpg" style="margin-left: 10%; "></p>
 <p style="clear: both;"></p>
 
 <h4> Info-Cards </h4>
-<p><img src="(Updatedv3)MissionsWk copy.jpg" style="float: left; height: 22em; width: 24%; margin-right: 1%; "><img src="F copy.jpg" style="float: left; width: 24%; margin-right: 1%; "><img src="FOC_2018 copy.jpg" style="float: left; width: 24%; margin-right: 1%; "><img src="'18 MW_v3 copy.jpg" style="float: left; height:22em; width: 24%; margin-right: 1%; "></p>
+<p><img src="(Updatedv3)MissionsWk copy.jpg" style="float: left; height: 21em; width: 24%; margin-right: 1%; "><img src="F copy.jpg" style="float: left; width: 24%; margin-right: 1%; "><img src="FOC_2018 copy.jpg" style="float: left; width: 24%; margin-right: 1%; "><img src="'18 MW_v3 copy.jpg" style="float: left; height:21em; width: 24%; margin-right: 1%; "></p>
 <p style="clear: both;"></p>
 
 <h4> Bookmarks </h4>
