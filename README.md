@@ -11,7 +11,7 @@ Reason here, welcoming you to my creative space. I'm hoping to make it a lovely 
 <h4>#ShareYourSmile</h4>
 
 <p><img src="Bear_Postcard.jpg"></p>
-<p><img src="Flamingo_Postcard.jpg" style="float: left; width: 45%; margin-right: 1%; "><img src="Hedgehog.png" style="float: left; width: 45%; margin-right: 1%; "></p>
+<p><img src="Flamingo_Postcard.jpg" style="float: left; width: 48%; margin-right: 4%; "><img src="Hedgehog.png" style="float: left; width: 48%; "></p>
 <p style="clear: both;"></p>
 
 <h4> Weddings </h4>
