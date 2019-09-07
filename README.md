@@ -21,7 +21,7 @@ Reason here, welcoming you to my creative space. I'm hoping to make it a lovely 
 <h4> Wedding Branding </h4>
 <ul><li><h5>The Wedding of 2 Chefs - Yuen Min & Ju Lih</h5></li></ul>
 <p><img src="JL&YM_Logo copy.png" style="float: left; width: 45%; margin-left: 2%; "><img src="IMG_8872.jpg" style="float: right; width: 45%; margin-right: 4%; "></p>
-<p><img src="Bookmark_B.jpg" style="float:left; Width:30%; "><img src="Bulletin_F(Final).jpg" style="float:left; Width:30%; "><img src="Bulletin_B.jpg" style="float:left; Width:30%; "></p>
+<p><img src="Bookmark_B.jpg" style="float: left; Width:30%; "><img src="Bulletin_F(Final).jpg" style="float: left; Width:30%; "><img src="Bulletin_B.jpg" style="float: left; Width:30%; "></p>
 <p style="clear: both;"></p>
   
 <ul><li><h5>The Wedding of Joy & Philip</h5></li></ul>
