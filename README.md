@@ -8,14 +8,14 @@ Reason here, welcoming you to my creative space. I'm hoping to make it a lovely 
 
 <h3>Here is a list of projects I've been working on:</h3>
 
+<h4> Event Cards </h4>
+<p><img src="(Updatedv3)MissionsWk copy.jpg" style="float: left; height: 21em; width: 24%; margin-right: 1%; "><img src="F copy.jpg" style="float: left; width: 24%; margin-right: 1%; "><img src="FOC_2018 copy.jpg" style="float: left; width: 24%; margin-right: 1%; "><img src="'18 MW_v3 copy.jpg" style="float: left; height:21em; width: 24%; margin-right: 1%; "></p>
+<p style="clear: both;"></p>
+
 <h4>#ShareYourSmile</h4>
 
 <p><img src="Bear_Postcard.jpg"></p>
 <p><img src="Flamingo_Postcard.jpg" style="float: left; width: 48%; margin-right: 4%; "><img src="Hedgehog.png" style="float: right; width: 48%; "></p>
-<p style="clear: both;"></p>
-
-<h4> Event Cards </h4>
-<p><img src="(Updatedv3)MissionsWk copy.jpg" style="float: left; height: 21em; width: 24%; margin-right: 1%; "><img src="F copy.jpg" style="float: left; width: 24%; margin-right: 1%; "><img src="FOC_2018 copy.jpg" style="float: left; width: 24%; margin-right: 1%; "><img src="'18 MW_v3 copy.jpg" style="float: left; height:21em; width: 24%; margin-right: 1%; "></p>
 <p style="clear: both;"></p>
 
 <h4> Wedding Branding </h4>
