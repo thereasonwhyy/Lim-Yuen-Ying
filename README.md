@@ -1,5 +1,3 @@
-# Lim Yuen Ying
-
 Hi there!
 
 Welcome to the simple gallery I created to document my creative journey!
