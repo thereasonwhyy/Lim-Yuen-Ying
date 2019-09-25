@@ -1,7 +1,6 @@
 Hi there!
 
 Welcome to the simple gallery I created to document my creative journey!
-
 <br/> I would love to get to know you :) 
 <br/> Say hello: yuenying_@hotmail.com
 
