@@ -4,6 +4,7 @@ Hi there!
 
 Welcome to the simple gallery I created to document my creative journey!
 <br/> I would love to get to know you :) 
+
 <br/> Say hello: yuenying_@hotmail.com
 
 <h3>Here is a list of projects I've been working on:</h3>
