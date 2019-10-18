@@ -1,7 +1,6 @@
 Hi there!
 
-Welcome to the simple gallery I created to document my creative journey! 
-<br/>I am Yuen Ying, a self-taught graphic design enthusiast. 
+<br/>I am Yuen Ying, a self-taught graphic design enthusiast. Welcome to the simple gallery I created to document my creative journey! 
 <br/>A full-time psychology and marketing student, I owe a lot to the support of friends & family who trusted me with full creative direction over the projects featured in this site. 
 <br/> Say hello: yuenying_@hotmail.com
 
