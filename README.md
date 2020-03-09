@@ -1,7 +1,7 @@
 Hi there!
 
 Welcome to the simple gallery I created to document my creative journey! 
-<br/>A full-time psychology and marketing student, I owe a lot to the support of friends & family who trusted me with full creative direction over the projects featured in this site. 
+<br/>A full-time psychology and marketing student, I owe a lot to the support of friends & family who trusted me with the creative direction over the projects featured in this site. 
 <br/> Say hello: yuenying_@hotmail.com
 
 <h3>Here is a list of projects I've been working on:</h3>
